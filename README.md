@@ -1,15 +1,3 @@
- # O mně
- - Jsem student VUT fakulty informačních technologií
- - Mám rád nové technologie a zajímám se o jejich vývoj
- - Zabývám se primárně programováním v jazyce Python, C a mobilním vývojem ve Flutteru
- - Mám také zkušenosti s C#, Html, CSS a Javascriptem
- - Více se můžete dozvědět na mém [LinkedIn profilu](https://www.linkedin.com/in/radek-jestrabik/)
-
-## Některé mé projekty:
-   - [Překladač jazyka IFJ23](https://github.com/hruboson/IFJ23) - společný školní projekt, který překládá jayzk IFJ23 založený na jazyce Swift.
-   - [Steganografický dekodér](https://github.com/JestrabikR/steg-decode) - nástroj pro získání skrytých zpráv z obrázků ve formátu PPM
-   - [Implementace zajímavých datových struktur](https://github.com/JestrabikR/btree-hashtable) - hashovací tabulka a binární stromy s iterativními a rekurzivními operacemi
-
 # About me
    - I am a student at BUT, Faculty of Information Technologies
    - I like new technologies and am interested in their development

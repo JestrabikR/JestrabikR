@@ -8,4 +8,5 @@
 ## Some of my projects:
    - [IFJ23 compiler](https://github.com/hruboson/IFJ23) - a school team project that compiles Swift-based IFJ23 language.
    - [Steganography Decoder](https://github.com/JestrabikR/steg-decode) - a tool for extracting hidden messages from PPM images
+   - [Uniform Cost Search](https://github.com/JestrabikR/uniform_cost_search) - implementation of UCS in Python for finding the shortest path in a 2D space
    - [Implementation of interesting data structures](https://github.com/JestrabikR/btree-hashtable) - hash table and binary trees with iterative and recursive operations

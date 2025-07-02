@@ -2,7 +2,7 @@
    - I have Bachelor's degree from VUT, Faculty of Information Technologies
    - I like new technologies and am interested in their development
    - I primarily deal with programming in Python, C and mobile development in Flutter
-   - I also have experience with C#, Html, CSS (Tailwind, Bootstrap) and Javascript (NodeJS, VueJS)
+   - I also have experience with C#, Html, CSS (Tailwind, Bootstrap) and Javascript (Node.js, Vue.js)
    - You can learn more about me on my [LinkedIn profile](https://www.linkedin.com/in/radek-jestrabik/)
 
 ## Some of my projects:
